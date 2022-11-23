@@ -16,7 +16,7 @@
     "shop",
     "nodejs"
   ],
-  "author": "Hary Pham",
+  "author": "Rafay",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
