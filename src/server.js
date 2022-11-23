@@ -17,7 +17,7 @@ configViewEngine(app);
 //init web routes
 initWebRoutes(app);
 
-let port = process.env.PORT || 8080;
+let port = process.env.PORT || 8000;
 
 app.listen(port, () => {
     console.log(`Messenger tech shop is running at the port ${port}`);
